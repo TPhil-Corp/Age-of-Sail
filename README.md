@@ -1,7 +1,7 @@
 ![Age of Sail logo](poster.png?raw=1)
 
 **A mod plugin for theotown by TPhil.Council**
-
+**Note:** This is not the main repository of the plugin and created onlu for releases.
 [![Discord](https://img.shields.io/discord/448344322887254018.svg?logo=discord)](https://discord.gg/baMkPTc7n)
 
 ### *Description*
