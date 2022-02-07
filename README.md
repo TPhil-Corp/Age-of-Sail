@@ -22,7 +22,7 @@ Start growing your town on semi-medieval themed houses and infrastructure simila
 
 *  Construct railway system with custom schedules and destination.
 
-*  Build harbors and ships.
+*  Build harbors and ships. 
 
 *  Watch inflation.
 
