@@ -50,6 +50,8 @@ Start growing your town on semi-medieval themed houses and infrastructure simila
 
 ***Translation***
 
+*  FellazeLz
+
 *  Vönark
 
 ***Special thanks***
